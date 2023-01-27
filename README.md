@@ -1,6 +1,10 @@
-### Hi there 👋
-
-
+### Hi there 👋 i'm Augusto
+<div>
+  <img src="./image.png" height="200" width="250" align="right">
+      A passionate Full Stack Developer having an experience </br>of building Web applications 
+ with JavaScript/ Reactjs/ Nodejs</br>and some other libraries and frameworks.
+ 
+</div>
 
 ## 💬 Social
 <div align="left">
